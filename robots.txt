@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://omprusery.github.io/sitemap
+Sitemap: https://omprusery.github.io/app/sitemap
+Sitemap: https://omprusery.github.io/assets/sitemap
+Sitemap: https://omprusery.github.io/css/sitemap
+Sitemap: https://omprusery.github.io/includes/sitemap
+Sitemap: https://omprusery.github.io/item/sitemap
+Sitemap: https://omprusery.github.io/src/sitemap
